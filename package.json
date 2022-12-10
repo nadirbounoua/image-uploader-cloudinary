@@ -16,7 +16,7 @@
     "dotenv": "^0.4.0",
     "ejs": "^1.0.0",
     "ejs-locals": "^1.0.2",
-    "express": "^4.7.2",
+    "express": "^4.17.3",
     "jugglingdb": "^1.0.1",
     "jugglingdb-mongodb": "^0.1.1",
     "method-override": "^2.1.2"
